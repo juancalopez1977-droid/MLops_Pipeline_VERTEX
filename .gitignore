@@ -200,3 +200,9 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python
+
+### Project Specific ###
+# Temporary consolidation script (not to be committed)
+consolidate_olist.py
+
+# End of https://www.toptal.com/developers/gitignore/api/windows,python
